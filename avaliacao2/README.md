@@ -1,6 +1,6 @@
 # Quadrado mágico 4x4
 
-Uma possível solução para o problema apresentado do quadrado mágico 4x4 cuja soma em cada uma das linhas, colunas ou diagonais seja 34 tem como primeiro passo preencher o quadrado com os números de 1 a 16 em ordem conforme o quadrado abaixo:
+Uma possível solução para o problema apresentado do quadrado mágico 4x4 cuja soma em cada uma das linhas, colunas ou diagonais deve ser 34 tem como primeiro passo preencher o quadrado com os números de 1 a 16 em ordem conforme o quadrado abaixo:
 
 ![image](https://user-images.githubusercontent.com/15874726/146651227-5f64e2b1-b1a3-44a5-83e6-41940646dc04.png)
 
